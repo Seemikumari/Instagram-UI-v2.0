@@ -39,3 +39,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+# Images
+![Insta UI Home ](https://github.com/Seemikumari/Instagram-UI-v2.0/blob/main/images/Insta%20UI%20Home.jpg)
+![Some more UI ](https://github.com/Seemikumari/Instagram-UI-v2.0/blob/main/images/Insta%20UI%202.jpg)
